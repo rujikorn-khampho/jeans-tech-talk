@@ -12,9 +12,9 @@
     <summary>GitHub statistical reports:</summary>
     <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeans-tech-talk&show_icons=true&locale=en" alt="jeans-tech-talk" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jeans-tech-talk&show_icons=true&locale=en&card_width=660px" alt="jeans-tech-talk" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/    "><img src="https://github-profile-trophy.vercel.app/?username=jeans-tech-talk" alt="jeans-tech-talk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/"><img src="https://github-profile-trophy.vercel.app/?username=jeans-tech-talk" alt="jeans-tech-talk" /></a> </p>
 
 </details><hr>
 
