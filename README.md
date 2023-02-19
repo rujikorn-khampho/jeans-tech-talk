@@ -6,4 +6,12 @@
 * 🎓 I was studied in Automation Engineering at King Mongkut's University of Technology Thonburi, Bangkok, Thailand.
 * 💼 Currently a software developer at C0D1UM.
 * 🧐 Interested in full stack. Recent focus on backend.
-* 🌱 Currently learning Python, HTML, CSS & JS
+* 🌱 Currently learning Python, HTML, CSS & JS.
+
+### GitHub statistical reports:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeans-tech-talk&show_icons=true&locale=en" alt="jeans-tech-talk" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/    "><img src="https://github-profile-trophy.vercel.app/?username=jeans-tech-talk" alt="jeans-tech-talk" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeans-tech-talk&label=Profile%20views&color=0e75b6&style=flat" alt="jeans-tech-talk" /> </p>
